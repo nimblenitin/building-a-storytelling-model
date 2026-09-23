@@ -1,5 +1,3 @@
-# Tiny Tales AI
-
 This repo does a from-scratch PyTorch implementation of Gemma3 270M model with simple stories dataset. It does not use pretrained weights, every stage from tokenizer to inference is built and run end-to-end. The final model generates simple, easy-to-understand stories for kids. 
 
 
@@ -169,4 +167,6 @@ This implementation is inspired by:
 - Trained on 6 trillion tokens
 - Multimodal capabilities (text + images)
 - Support for 140+ languages
+
+  ## Issues
 
